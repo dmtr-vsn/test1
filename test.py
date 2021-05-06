@@ -25,8 +25,7 @@ print(cena, skaits, summa, sep = "\n")
 
 print(math.sqrt(cena))
 
-
-print()
-print()
 print()
 print(type(cena))
+
+print('make more changes')
